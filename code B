@@ -1,1 +1,6 @@
-cout << "Alejandro was here." << endl;
+#include <iostream>
+
+void featureB()
+{
+  cout << "Alejandro was here." << endl;
+}
