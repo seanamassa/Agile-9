@@ -1,5 +1,9 @@
 #include <iostream>
 #include <windows.h>
+#include "featureA.cpp"
+#include "featureB.cpp"
+#include "featureC.cpp"
+#include "featureD.cpp"
 using namespace std;
 
 void featureA();
