@@ -3,5 +3,5 @@ using namespace std;
 
 void featureD()
 {
-  cout << "Preston." << endl;
+  cout << "Preston Winchester" << endl;
 }
